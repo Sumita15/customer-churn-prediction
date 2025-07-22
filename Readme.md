@@ -18,7 +18,7 @@ A Flask-based web app that predicts whether a telecom customer will churn using 
 ## How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
+   git clone https://github.com/Sumita15/customer-churn-prediction.git
 2. Navigate to the project folder:
    cd customer-churn-prediction
 3. Install dependencies:
@@ -31,7 +31,7 @@ http://localhost:5000
 
 ## Live Demo
 
-https://your-app-url.onrender.com
+https://customer-churn-prediction-c0ix.onrender.com
 
 ---
 
